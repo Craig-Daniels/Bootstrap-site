@@ -195,7 +195,7 @@ blockquote cite::before {
   color: white;
   background-size: 1px;
   display:inline-flex;
-  padding: 2%;
+  padding: 1%;
 }
 
 .experience-bullet{
@@ -239,3 +239,18 @@ blockquote cite::before {
     aspect-ratio: 1.45 / 1;
   }
 }
+
+.avatar-img {
+  width: 40%;
+  border-radius: 80%;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.marker {
+  background-color: rgb(255, 72, 0);
+  color: white;
+  border-radius: 2%;
+}
+
